@@ -1,0 +1,7 @@
+{
+    "name": "test",
+    "expire": "lifetime",
+    "ip": "37.230.147.42",
+    "localdata": "test local data",
+    "mac": "c4:85:08:b0:b2:1f"
+}
