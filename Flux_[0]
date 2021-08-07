@@ -1,5 +1,6 @@
 {
     "name": "test",
     "expire": "lifetime",
-    "ip": "37.230.147.42"
+    "ip": "37.230.147.42",
+    "localdata": "test local data"
 }
