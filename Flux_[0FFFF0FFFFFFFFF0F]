@@ -1,0 +1,9 @@
+{
+    "name": "Venom",
+    "expire": "LifeTime",
+    "timeexpire": "timeExpire",
+    "ip": "",
+    "localdata": "nothing. just guest",
+    "mac": "48:e2:44:70:f8:d5",
+    "type": "Guest"
+}
