@@ -1,0 +1,9 @@
+{
+    "name": "Creed",
+    "expire": "LifeTime",
+    "timeexpire": "timeExpire",
+    "ip": "",
+    "localdata": "nothing. just guest",
+    "mac": "74:de:2b:2b:e4:c1",
+    "type": "Guest"
+}
