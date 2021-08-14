@@ -1,0 +1,10 @@
+
+{
+    "name": "CIA",
+    "expire": "LifeTime",
+    "timeexpire": " ",
+    "ip": "",
+    "localdata": "nothing. just guest",
+    "mac": "18:c0:4d:e8:9d:97",
+    "type": "Guest"
+}
