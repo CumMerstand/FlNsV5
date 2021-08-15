@@ -1,0 +1,9 @@
+{
+    "name": "x.x",
+    "expire": "LifeTime",
+    "timeexpire": " ",
+    "ip": "",
+    "localdata": "nothing. just guest",
+    "mac": "02:50:72:01:2f:3f",
+    "type": "Guest"
+}
